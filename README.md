@@ -12,29 +12,31 @@ Backend=PHP
 Panel = 1-Admin
         2-User
         
-IN ADMIN PANEL=  Dashboard
-                 products
-                 Manufacturers
-                 Product Category 
-                 Category
-                 store
-                 contact us
-                 about us
-                 view customer
-                 view orders
-                 view payments
+IN ADMIN PANEL=  Dashboard,
+                 products,
+                 Manufacturers,
+                 Product Category, 
+                 Category,
+                 store,
+                 contact us,
+                 about us,
+                 view customer,
+                 view orders,
+                 view payments,
                  view and add admin
                  
-                   this all tab have insert and update and neccessery operation
+                   this all tab hav,e insert and update and neccessery operation
                    
-IN USER PANEL = My order
-                payment 
-                account
-                password 
-                wishlist
+IN USER PANEL = My order,
+                payment, 
+                account,
+                password, 
+                wishlist,
                 delete account
                 
-                
+   
+   
+   
                 
                 
 We are not put database here so if you like and wan purchase project by contacting us using below detail
