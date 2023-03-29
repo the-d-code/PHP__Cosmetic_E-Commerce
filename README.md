@@ -25,7 +25,7 @@ IN ADMIN PANEL=  Dashboard,
                  view payments,
                  view and add admin
                  
-                   this all tab hav,e insert and update and neccessery operation
+                   this all tab have insert and update and neccessery operation
                    
 IN USER PANEL = My order,
                 payment, 
